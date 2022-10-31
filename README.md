@@ -1,2 +1,2 @@
 # shell_script
-Iniciante no shell script de terenamentos em geral.  
+Iniciante no shell script - terenamentos em geral.  
