@@ -1,2 +1,2 @@
 # shell_script
-Iniciante no shell script - terenamentos em geral.  
+Iniciante no shell script - reproduções em aulas e cuursos, assim como terenamentos em geral.  
