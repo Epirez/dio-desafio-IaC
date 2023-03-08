@@ -1,2 +1,5 @@
-# Desafio de Projeto Dio Infraestrutura como Código
-Iniciante no shell script: testes de aulas e terenamentos em geral. 
+# Desafio de Projeto da [Dio](https://www.dio.me/) Infraestrutura como Código 
+Implementação de Script de Criação de Estrutura de Usuários, Diretórios e Permissões.
+
+Estrutura:
+![Estrutura](/Estrutura.png)
