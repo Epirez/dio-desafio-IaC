@@ -1,7 +1,7 @@
 # Desafio de Projeto da [Dio](https://www.dio.me/) Infraestrutura como Código 
 
 
-Implementação de Script para Estrutura de Usuários, Diretórios e Permissões: arquivo `IaC.UsersManagement.sh`
+Implementação de Script para Estrutura de Usuários, Diretórios e Permissões: 
 - Excluir diretórios, arquivos, grupos e usuários criados anteriormente;
 - Todo provisionamento deve ser feito em um arquivo do tipo Bash
 Script;
@@ -11,12 +11,14 @@ Script;
 respectivo diretório;
 - Os usuáriosnão poderão ter permissão de leitura, escrita e execução
 em diretórios de departamentos que eles não pertencem;
-- Subir arquivo de script criado para a sua conta no GitHub. P
+- Subir arquivo de script criado para a sua conta no GitHub.
+  
+`IaC.UsersManagement.sh`
 ***
 <p><br>
 
 
-E o provisionado um servidor web automaticamente, com as seguintes definições: arquivo `IaC_Apache`
+Provisionamento de um servidor web automático, com as seguintes definições:
 
 - Atualizar o servidor;
 - Instalar o apache;
@@ -25,3 +27,4 @@ E o provisionado um servidor web automaticamente, com as seguintes definições:
 - Copiar os arquivos da aplicação no diretório padrão do apache;
 - Subir arquivo de script para um repositório no GitHub.
 
+`IaC_Apache`
